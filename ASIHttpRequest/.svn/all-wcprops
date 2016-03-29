@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/c6_ios/!svn/ver/610/branches/C6V1.1/C6/Classes/ASIHttpRequest/ASIDataCompressor.m
+END

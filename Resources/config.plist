@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LoginCode</key>
+	<string></string>
+	<key>UserID</key>
+	<string></string>
+	<key>Password</key>
+	<string></string>
+	<key>Sign</key>
+	<string>ligf$356A192B7913B04C54574D18C28D46E6395428AB</string>
+	<key>RemPwd</key>
+	<string>1</string>
+	<key>AutoLoginIn</key>
+	<string>0</string>
+	<key>LastLoginTime</key>
+	<string>1990-01-01 11:11:11</string>
+	<key>tabbarIndex</key>
+	<string>0</string>
+	<key>PortalNum</key>
+	<string>1</string>
+	<key>IsLoadedUsers</key>
+	<string>1</string>
+	<key>unlogin</key>
+	<string></string>
+	<key>arrDownLoad</key>
+	<array>
+		<dict/>
+		<dict/>
+	</array>
+</dict>
+</plist>

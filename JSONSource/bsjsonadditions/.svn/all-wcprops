@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions
+END
+NSArray+BSJSONAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSArray+BSJSONAdditions.m
+END
+BSJSONEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/BSJSONEncoder.h
+END
+NSDictionary+BSJSONAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSDictionary+BSJSONAdditions.h
+END
+NSString+BSJSONAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSString+BSJSONAdditions.h
+END
+BSJSONEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/BSJSONEncoder.m
+END
+NSScanner+BSJSONAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSScanner+BSJSONAdditions.h
+END
+NSDictionary+BSJSONAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSDictionary+BSJSONAdditions.m
+END
+NSString+BSJSONAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSString+BSJSONAdditions.m
+END
+NSArray+BSJSONAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSArray+BSJSONAdditions.h
+END
+NSScanner+BSJSONAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/c6_ios/!svn/ver/638/branches/C6V1.1/C6/Classes/JSONSource/bsjsonadditions/NSScanner+BSJSONAdditions.m
+END
